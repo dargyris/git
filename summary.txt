@@ -3,8 +3,8 @@ Introduction
 ---------------------------------------------------
 0. git config   
 1. git 
-2. git ll       show history
-
+2. git ll               show history
+3. git help <command>
 ===================================================
 Adding stuff
 ---------------------------------------------------
@@ -23,7 +23,15 @@ Adding stuff
 ===================================================
 Deletion
 ---------------------------------------------------
-1. git rm
-2. git reset HEAD <file_name>
+1. git rm               <file_name>
+2. git reset HEAD       <file_name>
 3. git restore --staged <file_name>
-4. git checkout -- <file_name>
+4. git checkout --      <file_name>
+
+===================================================
+History
+---------------------------------------------------
+1. git log              git commit history in 
+                        reverse chronolog. order.
+   git log  --abbrev-commit
+            --oneline --graph --decorate
