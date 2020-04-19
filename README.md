@@ -1,6 +1,7 @@
 # Git list of commands
 
 ## Introduction
+<pre>
 0. git version
 1. git config --global user.name "my_name"
                        user.email "my_email"
@@ -22,7 +23,7 @@
 5. git help <command>
 
 .gitignore              vim .gitignore
-
+</pre>
 # Adding stuff
 1. git init
 2. git clone    [get address from github]
