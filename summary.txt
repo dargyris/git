@@ -74,6 +74,7 @@ Diff
             HEAD HEAD^    HEAD with HEAD-1
             bc8a183 ad1243a
             master origin/master
+            master <other_branch>
 2. git difftool           Invokes p4merge
             All commands from diff apply the same
 
