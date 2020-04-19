@@ -76,3 +76,4 @@ Diff and Merge
             master origin/master
 2. git difftool           Invokes p4merge
             All commands from diff apply the same
+3. git merge <source> <target>
