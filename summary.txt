@@ -64,7 +64,7 @@ History
    git show <long commit id from git log command>
 
 ======================================================
-Diff and Merge
+Diff
 ------------------------------------------------------
 1. git diff               Working dir vs Staging area
             HEAD          Working dir vs last commit
