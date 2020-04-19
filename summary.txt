@@ -5,7 +5,14 @@ Introduction
 1. git config --global user.name "my_name"
                        user.email "my_email"
                        core.editor "vim"
-                       --list
+                       diff.tool p4merge
+                       difftool.p4merge.path
+                       difftool.prompt false
+                       merge.tool p4merge
+                       mergetool.p4merge.path
+                       mergetool.prompt false
+                       --list   lists config
+                       -e       opens conf in vim
                        alias.<command_name> "command"
        eg.:            alias.hist "log --all --graph"
 2. vim ~/.gitconfig
