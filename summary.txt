@@ -73,5 +73,6 @@ Diff and Merge
             bc8a183 HEAD  Get from git log --oneline
             HEAD HEAD^    HEAD with HEAD-1
             bc8a183 ad1243a
+            master origin/master
 2. git difftool           Invokes p4merge
             All commands from diff apply the same
