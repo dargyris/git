@@ -64,7 +64,7 @@ History
    git show <long commit id from git log command>
 
 ======================================================
-Diff and Merge
+Diff
 ------------------------------------------------------
 1. git diff               Working dir vs Staging area
             HEAD          Working dir vs last commit
@@ -86,8 +86,4 @@ Branching
               -d <name>         delete the branch
 2. git checkout <name>  switches to branch <name>
               -b <name> creates new branch & switches
-<<<<<<< HEAD
 3. git merge <source> <target>
-=======
-3. git merge <source_branch>    merges to my branch
->>>>>>> title-change
