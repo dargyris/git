@@ -1,11 +1,13 @@
-===================================================
+======================================================
 Introduction
----------------------------------------------------
+------------------------------------------------------
 0. git version
 1. git config --global user.name "my_name"
-              --global user.email "my_email"
-              --global core.editor "vim"
-              --global --list
+                       user.email "my_email"
+                       core.editor "vim"
+                       --list
+                       alias.<command_name> "command"
+       eg.:            alias.hist "log --all --graph"
 2. vim ~/.gitconfig
 1. git 
 2. git ll               show history
@@ -13,9 +15,10 @@ Introduction
 4. git ls-files         lists tracked files
 5. git help <command>
 
-===================================================
+.gitignore              vim .gitignore
+======================================================
 Adding stuff
----------------------------------------------------
+------------------------------------------------------
 1. git init
 2. git clone    [get address from github]
 3. git status   
@@ -30,22 +33,23 @@ Adding stuff
 6. git push     origin master
 7. git pull     origin master
 
-===================================================
+======================================================
 Deletion
----------------------------------------------------
+------------------------------------------------------
 1. git rm               <file_name>
 2. git mv               <file_name> <target>
 2. git reset HEAD       <file_name> Back out change
 3. git checkout --      <file_name> Restore file
 4. git restore --staged <file_name> 
 
-===================================================
+======================================================
 History
----------------------------------------------------
+------------------------------------------------------
 1. git log              git commit history in 
                         reverse chronolog. order.
             --abbrev-commit
             --oneline --graph --decorate
+            --all --graph --decorate --oneline
             d2a3cc1...219a253
             --since="2 days ago"
             -- <file_name>
