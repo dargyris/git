@@ -76,4 +76,14 @@ Diff and Merge
             master origin/master
 2. git difftool           Invokes p4merge
             All commands from diff apply the same
+
+======================================================
+Branching
+------------------------------------------------------
+1. git branch -a        list branches local and remote
+              <name>            creates new branch
+              -m <old> <new>    renames a branch
+              -d <name>         delete the branch
+2. git checkout <name>  switches to branch <name>
+              -b <name> creates new branch & switches
 3. git merge <source> <target>
