@@ -37,6 +37,7 @@ Adding stuff
 Deletion
 ------------------------------------------------------
 1. git rm               <file_name>
+          --cached      <file_name> stops tracking
 2. git mv               <file_name> <target>
 2. git reset HEAD       <file_name> Back out change
 3. git checkout --      <file_name> Restore file
