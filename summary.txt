@@ -86,4 +86,4 @@ Branching
               -d <name>         delete the branch
 2. git checkout <name>  switches to branch <name>
               -b <name> creates new branch & switches
-3. git merge <source> <target>
+3. git merge <src_branch>   merges into current branch 
