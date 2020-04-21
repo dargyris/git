@@ -1,6 +1,7 @@
 # Git Demonstration
 
 Simple Git demonstration.
+And adding a simple line to demonstrate rebasing.
 
 ## Introduction
 
