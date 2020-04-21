@@ -1,7 +1,8 @@
 # Git Demonstration
 
 Simple Git demonstration.
-And adding a simple line to demonstrate rebasing.
+And adding a simple line to demonstrate rebasing. Then,
+more changes from myfeature branch too.
 
 ## Introduction
 
