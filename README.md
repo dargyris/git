@@ -16,7 +16,7 @@ This is a deployment of git.
 
 ## How to Contribute
 
-Git contribution
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
