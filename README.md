@@ -1,6 +1,6 @@
 # Git Demonstration
 
-Some updates from master branch.
+very-bad branch changes..
 
 ## Introduction
 
