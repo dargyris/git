@@ -6,7 +6,8 @@ more changes from myfeature branch too.
 
 ## Introduction
 
-An Introduction to git.
+Some changes to demonstrate git diff.
+Now adding changes while on branch "update".
 
 ## Purpose
 
