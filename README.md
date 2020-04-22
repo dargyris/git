@@ -5,7 +5,7 @@ very-bad branch changes..
 ## Introduction
 
 Some changes to demonstrate git diff.
-Now adding changes while on branch "update".
+Adding a line here for an emergency fix after stashing.
 
 ## Purpose
 
