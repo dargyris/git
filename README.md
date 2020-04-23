@@ -17,9 +17,8 @@ This is a deployment of git.
 
 ## How to Contribute
 
-Please fork this repository and then issue Pull Requests for review.
+Updates to demonstrate simple "time travel".
+One more line added after adding the file to the staging area.
 
 ### Copyright
 
-2019 Git.Training.
-All rights reserved!
