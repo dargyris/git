@@ -1,6 +1,7 @@
 # Git Demonstration
 
-very-bad branch changes..
+Some local updates to the readme file while having updated
+the index.html file remotely.
 
 ## Introduction
 
